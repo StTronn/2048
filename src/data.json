@@ -1,0 +1,15 @@
+{
+    "items": [
+    {
+      "url": "https://api.github.com/repos/vmg/redcarpet/issues/598",
+      "repository_url": "https://api.github.com/repos/vmg/redcarpet",
+      "labels_url": "https://api.github.com/repos/vmg/redcarpet/issues/598/labels{/name}",
+      "comments_url": "https://api.github.com/repos/vmg/redcarpet/issues/598/comments",
+      "events_url": "https://api.github.com/repos/vmg/redcarpet/issues/598/events",
+      "html_url": "https://github.com/vmg/redcarpet/issues/598",
+      "id": 199425790,
+      "number": 598,
+      "title": "Just a heads up (LINE SEPARATOR character issue)"
+    }
+    ]
+}
